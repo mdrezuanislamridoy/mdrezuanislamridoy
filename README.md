@@ -2,10 +2,12 @@
 
 
 
-# 👋 Hi, I’m Md. Ridoy Babu ### <a href="https://github.com/ridoybabu781">Another Profile</a> 
+# 👋 Hi, I’m Md. Ridoy Babu
 
 > Backend Developer | MERN Stack | TypeScript Enthusiast 🚀
 
+### <a href="https://github.com/ridoybabu781">Another Profile</a> 
+ 
 I’m passionate about building **fast, scalable server-side applications** and **modern web apps**. I love solving problems and learning new technologies.  
 
 ---
