@@ -1,10 +1,8 @@
-# Welcome to My World.
 
-### Another github Profile Link
 
-### <a href="https://github.com/ridoybabu781">Ridoy Babu</a>
 
-# 👋 Hi, I’m Md. Ridoy Babu
+
+# 👋 Hi, I’m Md. Ridoy Babu ### <a href="https://github.com/ridoybabu781">Another Profile</a> 
 
 > Backend Developer | MERN Stack | TypeScript Enthusiast 🚀
 
