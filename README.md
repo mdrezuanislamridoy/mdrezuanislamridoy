@@ -1,64 +1,152 @@
+<h1 align="center">⚡ Ridoy ⚡</h1>
+<h3 align="center">🚀 NestJS Backend Developer | Scalable Systems Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=NestJS+Backend+Developer;I+Build+Scalable+APIs;Cron+Jobs+%2B+Real-time+Systems;Clean+Architecture+Lover;Future+Global+Engineer+🌍" />
+</p>
 
-
-
-# 👋 Hi, I’m Md. Ridoy Babu
-
-> Backend Developer | MERN Stack | TypeScript Enthusiast 🚀
-
-### <a href="https://github.com/ridoybabu781">Another Profile</a> 
- 
-I’m passionate about building **fast, scalable server-side applications** and **modern web apps**. I love solving problems and learning new technologies.  
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Database | Tools |
-| -------- | ------- | -------- | ----- |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 About Me
 
-### [MyNextTrip](https://github.com/mdrezuanislamridoy/MyNextTrip)  
-A travel web app with **user, agency, and admin panels**, booking system, and real-time chat.  
-**Tech:** React, Node.js, Express, MongoDB  
-![MyNextTrip](https://img.shields.io/badge/View-GitHub-blue?style=for-the-badge&logo=github)
+💻 I’m a **Backend Developer specializing in NestJS**
+⚡ I build **scalable, production-ready APIs and backend systems**
+🔐 Experienced in **authentication, cron jobs, and third-party API integrations**
+📊 Focused on **clean architecture & performance optimization**
 
-### [RR-Commerce](https://github.com/ridoybabu781/TS_BAC/tree/main/RR-Commerce)  
-E-commerce platform with **product, review, and payment management**.  
-**Tech:** React, TypeScript, Express, MongoDB  
-
-### [LMS Backend](https://github.com/mdrezuanislamridoy/LMS_BACKEND)  
-TypeScript & Express-based **Learning Management System** with JWT auth and media uploads.  
+🎯 Goal: Become a **world-class backend engineer (remote/global)**
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Backend Expertise (Core Strength)
 
-![MdRidoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrezuanislamridoy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrezuanislamridoy&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts" />
+</p>
 
----
+### 🔥 What I Actually Do:
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rr-md-ridoy-babu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrezuanislamridoy)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrezuanislamridoy@gmail.com)
-
----
-
-## ⚡ Fun Facts
-
-- 💻 Always coding, always learning  
-- 🌱 Currently exploring **NestJS, Socket.io, and PostgreSQL**  
-- 🎯 Goal: Build **scalable, high-performance web apps**  
-- 📚 Lifelong learner, TypeScript enthusiast  
+* 🧩 Modular architecture (NestJS best practices)
+* 🔐 Auth systems (JWT, Cookies, Firebase)
+* ⏱ Cron jobs & background workers
+* 🌐 REST API design (clean & scalable)
+* 🔗 Third-party API integration
+* ⚡ Performance & API optimization
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 🗄️ Database Layer
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+* Prisma ORM (production use)
+* Relational & NoSQL design
+* Efficient query handling
+
+---
+
+## 🚀 Real-World Projects
+
+### ✈️ Flight Tracking & Alert System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
+
+**Backend-heavy system built with NestJS**
+
+* ⏱ Cron jobs for scheduled flight updates
+* 📡 External aviation API integration
+* 🔔 Alert system for status changes
+* ⚡ Optimized API calls to avoid rate limits
+
+---
+
+### 🏀 Sports Data API System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
+</p>
+
+**Multi-API integration platform**
+
+* Integrated Basketball & Tennis APIs
+* Managed API rate limits & caching logic
+* Real-time data synchronization
+
+---
+
+## 🧠 Current Focus
+
+<p align="center">
+  <img src="https://readme-progress-bar.vercel.app/api?progress=80&color=00F7FF" />
+</p>
+
+```text
+✔ Advanced NestJS Architecture
+✔ System Design (Scalability)
+✔ Caching & Performance Optimization
+✔ DSA for Problem Solving
+✔ TypeScript Deep Dive
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 What Makes Me Different
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+* I don’t just build APIs — I build **systems**
+* I understand **real-world backend problems** (rate limits, cron, scaling)
+* I focus on **clean, maintainable architecture**
+* I think like a **backend engineer, not just a coder**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdrezuanislamridoy/mdrezuanislamridoy/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⭐ Support
+
+If you find my work useful, consider giving a ⭐ — it really motivates me!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
