@@ -1,161 +1,157 @@
 
+````md
+<h1 align="center">⚡ Ridoy</h1>
+
+<p align="center">
+  <b>Backend Developer • NestJS • TypeScript</b>
+</p>
+
+<p align="center">
+  Building scalable backend systems, APIs and automation.
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Ridoy**, a Backend Developer focused on building reliable and scalable applications with **NestJS and TypeScript**.
+
+I enjoy solving real-world backend problems — from authentication and database architecture to cron jobs, API integrations and performance optimization.
+
+```ts
+const ridoy = {
+  role: "Backend Developer",
+  focus: ["NestJS", "TypeScript", "System Design"],
+  building: "Scalable Backend Systems",
+  goal: "Become a world-class backend engineer 🌍"
+};
 ````
-<h1 align="center">Hi, I'm Ridoy 👋</h1>
-
-<h3 align="center">
-Backend Developer • NestJS • TypeScript • Scalable APIs
-</h3>
-
-<p align="center">
-  I build clean, scalable and production-ready backend systems.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,mongodb,prisma,docker,git" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Core Stack
 
-I'm a backend developer focused on building reliable and scalable applications with **NestJS and TypeScript**.
+### Backend
 
-I enjoy working on backend problems involving authentication, API integrations, scheduled jobs, database design, caching and system architecture.
+`NestJS` `Node.js` `Express.js` `TypeScript`
 
-My goal is simple: **build systems that are easy to maintain and ready to scale.**
+### Database
 
----
+`PostgreSQL` `MongoDB` `Prisma ORM`
 
-## ⚡ Tech Stack
+### Backend Engineering
 
-**Backend**
+`REST API` `JWT` `Cookies` `Cron Jobs` `Caching`
 
-`NestJS` • `Node.js` • `Express.js` • `TypeScript`
+### Tools
 
-**Database**
-
-`PostgreSQL` • `MongoDB` • `Prisma ORM`
-
-**Backend Systems**
-
-`REST APIs` • `JWT Authentication` • `Cron Jobs` • `Caching` • `Third-party APIs`
-
-**Tools**
-
-`Git` • `GitHub` • `Docker` • `Postman`
+`Git` `GitHub` `Postman` `Docker`
 
 ---
 
-## 🛠 What I Build
+## 🔥 What I Work With
 
-- Scalable REST APIs
-- Modular NestJS applications
-- JWT & cookie-based authentication
-- Role-based authorization
-- Background jobs & cron systems
-- Third-party API integrations
-- Database architecture with Prisma
-- Caching & API performance optimization
-- Real-time data synchronization
+* Modular NestJS architecture
+* REST API development
+* Authentication & authorization
+* JWT and cookie authentication
+* Role-based access control
+* Cron jobs & scheduled tasks
+* Third-party API integrations
+* Database design with Prisma
+* API caching
+* Rate-limit handling
+* Performance optimization
+* Clean & maintainable architecture
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### ✈️ Flight Tracking & Alert System
 
-A backend system that monitors flight information and automatically detects important status changes.
+A backend-focused flight monitoring system built using **NestJS**.
 
-**Built with:**
-`NestJS` • `Cron Jobs` • `External APIs` • `Database`
+**Key Features**
 
-**Highlights**
+* Scheduled flight updates using cron jobs
+* External aviation API integration
+* Flight status monitoring
+* Automated alert system
+* Rate-limit handling
+* Optimized external API requests
 
-- Scheduled flight data synchronization
-- Aviation API integration
-- Flight status monitoring
-- Automated alert processing
-- API rate-limit optimization
+**Tech**
 
----
-
-### 🏀 Sports Data Platform
-
-Backend platform for collecting and managing sports data from multiple external providers.
-
-**Built with:**
-`NestJS` • `REST APIs` • `Caching` • `Database`
-
-**Highlights**
-
-- Basketball API integration
-- Tennis API integration
-- Multi-provider data synchronization
-- API rate-limit handling
-- Caching for frequently requested data
+`NestJS` • `TypeScript` • `REST API` • `Cron Jobs` • `Prisma`
 
 ---
 
-## 🧠 Currently Improving
+### 🏀 Sports Data API
+
+A backend platform for synchronizing sports data from multiple providers.
+
+**Key Features**
+
+* Basketball API integration
+* Tennis API integration
+* Multi-API synchronization
+* Caching system
+* API rate-limit handling
+* Structured backend architecture
+
+**Tech**
+
+`NestJS` • `TypeScript` • `REST API` • `Caching` • `Database`
+
+---
+
+## 🧠 Currently Learning
 
 ```text
-NestJS Architecture
-System Design
-Redis & Caching
-Docker
-Database Optimization
-TypeScript
-Data Structures & Algorithms
-````
+01. Advanced NestJS Architecture
+02. System Design & Scalability
+03. Redis & Caching
+04. Docker
+05. PostgreSQL Optimization
+06. TypeScript Deep Dive
+07. Data Structures & Algorithms
+```
 
 ---
 
-## 📊 GitHub
+## 💡 Engineering Mindset
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mdrezuanislamridoy&show_icons=true&hide_border=true&theme=transparent"
-    height="160"
-  />
+> Build for today. Design for tomorrow.
 
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=mdrezuanislamridoy&hide_border=true&theme=transparent"
- height="160"
-/>
+I care about more than making an API work.
 
-</p>
+I focus on:
 
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdrezuanislamridoy/mdrezuanislamridoy/output/github-contribution-grid-snake.svg" />
-</p>
+**Scalability**
+**Maintainability**
+**Performance**
+**Clean Architecture**
+**Developer Experience**
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 Current Goal
 
-<p align="center">
+Becoming a stronger backend engineer capable of designing and building **production-grade systems for global products**.
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
+---
 
-<a href="YOUR_FACEBOOK_URL">
-  <img src="https://skillicons.dev/icons?i=facebook" width="40" />
-</a>
+## 🤝 Connect
 
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-</a>
-
-</p>
+**LinkedIn:** Add your LinkedIn link
+**Facebook:** Add your Facebook link
+**Instagram:** Add your Instagram link
 
 ---
 
 <p align="center">
-  <b>Building reliable backend systems, one API at a time.</b>
+  <b>⚡ Building reliable systems, one API at a time.</b>
 </p>
 ```
+
