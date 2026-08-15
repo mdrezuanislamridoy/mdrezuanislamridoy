@@ -1,5 +1,3 @@
-
-````md
 <h1 align="center">⚡ Ridoy</h1>
 
 <p align="center">
@@ -25,7 +23,6 @@ const ridoy = {
   building: "Scalable Backend Systems",
   goal: "Become a world-class backend engineer 🌍"
 };
-````
 
 ---
 
