@@ -23,7 +23,7 @@ const ridoy = {
   building: "Scalable Backend Systems",
   goal: "Become a world-class backend engineer 🌍"
 };
-
+```
 ---
 
 ## ⚡ Core Stack
