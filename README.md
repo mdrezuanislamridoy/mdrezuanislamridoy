@@ -177,11 +177,9 @@ Kurigram Polytechnic Institute
 
 ## 🤝 Connect With Me
 
-🌐 **Portfolio:** ridoybabu.vercel.app
+🌐 **Portfolio:** <a href="https://ridoybabu.vercel.app">ridoybabu.vercel.app</a>
 
-💼 **LinkedIn:** Add your LinkedIn URL
-
-💻 **GitHub:** Add your GitHub URL
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/rr-md-ridoy-babu/">Md. Ridoy Babu</a>
 
 📧 **Email:** [ridoy.babu.781@gmail.com](mailto:ridoy.babu.781@gmail.com)
 
