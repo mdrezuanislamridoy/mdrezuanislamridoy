@@ -1,154 +1,192 @@
-<h1 align="center">⚡ Ridoy</h1>
+<h1 align="center">Hi, I'm Ridoy 👋</h1>
+
+<h3 align="center">Backend-Focused Full Stack Developer</h3>
 
 <p align="center">
-  <b>Backend Developer • NestJS • TypeScript</b>
+Node.js • NestJS • TypeScript • PostgreSQL • React.js
 </p>
 
 <p align="center">
-  Building scalable backend systems, APIs and automation.
+Building scalable APIs, reliable backend systems, and production-ready applications.
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Ridoy**, a Backend Developer focused on building reliable and scalable applications with **NestJS and TypeScript**.
+I'm **Md Ridoy Babu**, a Full Stack Developer with a strong focus on backend engineering.
 
-I enjoy solving real-world backend problems — from authentication and database architecture to cron jobs, API integrations and performance optimization.
+I work primarily with **Node.js, NestJS, TypeScript, PostgreSQL, Prisma ORM, React.js, and Next.js** to build scalable web applications and production-ready backend systems.
+
+I enjoy solving real-world engineering problems involving:
+
+* API architecture
+* Authentication & authorization
+* Database design
+* Background jobs
+* Caching
+* Third-party integrations
+* Performance optimization
+* Cloud deployment
+
+Currently working as a **Backend Developer at Softvence Agency** in Dhaka, Bangladesh.
+
+---
+
+## ⚡ Tech Stack
+
+**Languages**
+
+`JavaScript` `TypeScript`
+
+**Backend**
+
+`Node.js` `NestJS` `Express.js`
+
+**Frontend**
+
+`React.js` `Next.js` `Tailwind CSS` `Zustand`
+
+**Database**
+
+`PostgreSQL` `MongoDB` `Prisma ORM` `Mongoose` `Redis`
+
+**API & Real-Time**
+
+`REST API` `WebSockets` `Socket.IO` `Swagger` `OpenAPI`
+
+**Authentication & Security**
+
+`JWT` `OAuth 2.0` `RBAC` `OTP Verification`
+
+**DevOps & Cloud**
+
+`Docker` `AWS` `Linux` `GitHub Actions` `CI/CD`
+
+---
+
+## 🔧 What I Work On
+
+* Production-grade REST APIs
+* Modular NestJS applications
+* PostgreSQL database architecture
+* Prisma ORM
+* JWT & OAuth authentication
+* Role-based access control
+* Background jobs & scheduled tasks
+* Redis caching
+* WebSockets & real-time systems
+* Third-party API integrations
+* Payment gateway integrations
+* Dockerized applications
+* CI/CD workflows
+* AWS deployments
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ NaijaRadar
+
+**Real-Time Flight Tracking Platform**
+
+`NestJS` `PostgreSQL` `AviationStack API` `Caching` `Background Jobs`
+
+Backend services for tracking live flight information, schedules, delays, subscriptions, and user alerts.
+
+**Highlights**
+
+* Integrated AviationStack flight data
+* Built flight status and schedule APIs
+* Implemented caching to reduce redundant external API requests
+* Designed background jobs for automated processing
+* Built SMS, push, and email notification workflows
+* Designed PostgreSQL database schemas
+
+---
+
+### ☁️ RR Vault
+
+**Cloud Media Platform**
+
+`Node.js` `Cloudflare Object Storage` `Stripe` `OAuth` `NPM SDK`
+
+A cloud-based media platform with secure file handling and subscription management.
+
+**Highlights**
+
+* API-key authentication
+* Secure file upload workflows
+* Cloudflare Object Storage integration
+* Stripe subscription integration
+* OAuth & email authentication
+* Usage limits
+* Administrative dashboard
+* Custom NPM SDK for client applications
+
+---
+
+## 🧠 Backend Mindset
 
 ```ts
-const ridoy = {
-  role: "Backend Developer",
-  focus: ["NestJS", "TypeScript", "System Design"],
-  building: "Scalable Backend Systems",
-  goal: "Become a world-class backend engineer 🌍"
+const developer = {
+  name: "Md Ridoy Babu",
+  role: "Backend-Focused Full Stack Developer",
+
+  core: [
+    "NestJS",
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL"
+  ],
+
+  interests: [
+    "Scalable Systems",
+    "API Architecture",
+    "System Design",
+    "Performance"
+  ],
+
+  philosophy: "Build systems that are reliable, maintainable, and ready to scale."
 };
 ```
----
-
-## ⚡ Core Stack
-
-### Backend
-
-`NestJS` `Node.js` `Express.js` `TypeScript`
-
-### Database
-
-`PostgreSQL` `MongoDB` `Prisma ORM`
-
-### Backend Engineering
-
-`REST API` `JWT` `Cookies` `Cron Jobs` `Caching`
-
-### Tools
-
-`Git` `GitHub` `Postman` `Docker`
 
 ---
 
-## 🔥 What I Work With
+## 📌 Currently Improving
 
-* Modular NestJS architecture
-* REST API development
-* Authentication & authorization
-* JWT and cookie authentication
-* Role-based access control
-* Cron jobs & scheduled tasks
-* Third-party API integrations
-* Database design with Prisma
-* API caching
-* Rate-limit handling
-* Performance optimization
-* Clean & maintainable architecture
+* Advanced NestJS Architecture
+* System Design
+* PostgreSQL Optimization
+* Redis & Caching
+* Microservices
+* Docker & CI/CD
+* AWS
+* Data Structures & Algorithms
 
 ---
 
-## 🚀 Projects
+## 🎓 Education
 
-### ✈️ Flight Tracking & Alert System
+**Diploma in Computer Science and Technology**
 
-A backend-focused flight monitoring system built using **NestJS**.
-
-**Key Features**
-
-* Scheduled flight updates using cron jobs
-* External aviation API integration
-* Flight status monitoring
-* Automated alert system
-* Rate-limit handling
-* Optimized external API requests
-
-**Tech**
-
-`NestJS` • `TypeScript` • `REST API` • `Cron Jobs` • `Prisma`
+Kurigram Polytechnic Institute
+2022 – 2026
 
 ---
 
-### 🏀 Sports Data API
+## 🤝 Connect With Me
 
-A backend platform for synchronizing sports data from multiple providers.
+🌐 **Portfolio:** ridoybabu.vercel.app
 
-**Key Features**
+💼 **LinkedIn:** Add your LinkedIn URL
 
-* Basketball API integration
-* Tennis API integration
-* Multi-API synchronization
-* Caching system
-* API rate-limit handling
-* Structured backend architecture
+💻 **GitHub:** Add your GitHub URL
 
-**Tech**
-
-`NestJS` • `TypeScript` • `REST API` • `Caching` • `Database`
-
----
-
-## 🧠 Currently Learning
-
-```text
-01. Advanced NestJS Architecture
-02. System Design & Scalability
-03. Redis & Caching
-04. Docker
-05. PostgreSQL Optimization
-06. TypeScript Deep Dive
-07. Data Structures & Algorithms
-```
-
----
-
-## 💡 Engineering Mindset
-
-> Build for today. Design for tomorrow.
-
-I care about more than making an API work.
-
-I focus on:
-
-**Scalability**
-**Maintainability**
-**Performance**
-**Clean Architecture**
-**Developer Experience**
-
----
-
-## 🌍 Current Goal
-
-Becoming a stronger backend engineer capable of designing and building **production-grade systems for global products**.
-
----
-
-## 🤝 Connect
-
-**LinkedIn:** Add your LinkedIn link
-**Facebook:** Add your Facebook link
-**Instagram:** Add your Instagram link
+📧 **Email:** [ridoy.babu.781@gmail.com](mailto:ridoy.babu.781@gmail.com)
 
 ---
 
 <p align="center">
-  <b>⚡ Building reliable systems, one API at a time.</b>
+  <b>Build clean. Scale smart. Ship reliable systems.</b>
 </p>
-```
-
