@@ -1,139 +1,133 @@
-<h1 align="center">⚡ Ridoy ⚡</h1>
-<h3 align="center">🚀 NestJS Backend Developer | Scalable Systems Builder</h3>
+
+```
+<h1 align="center">Hi, I'm Ridoy 👋</h1>
+
+<h3 align="center">
+Backend Developer • NestJS • TypeScript • Scalable APIs
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=NestJS+Backend+Developer;I+Build+Scalable+APIs;Cron+Jobs+%2B+Real-time+Systems;Clean+Architecture+Lover;Future+Global+Engineer+🌍" />
+  I build clean, scalable and production-ready backend systems.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,mongodb,prisma,docker,git" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-💻 I’m a **Backend Developer specializing in NestJS**
-⚡ I build **scalable, production-ready APIs and backend systems**
-🔐 Experienced in **authentication, cron jobs, and third-party API integrations**
-📊 Focused on **clean architecture & performance optimization**
+I'm a backend developer focused on building reliable and scalable applications with **NestJS and TypeScript**.
 
-🎯 Goal: Become a **world-class backend engineer (remote/global)**
+I enjoy working on backend problems involving authentication, API integrations, scheduled jobs, database design, caching and system architecture.
 
----
-
-## ⚙️ Backend Expertise (Core Strength)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts" />
-</p>
-
-### 🔥 What I Actually Do:
-
-* 🧩 Modular architecture (NestJS best practices)
-* 🔐 Auth systems (JWT, Cookies, Firebase)
-* ⏱ Cron jobs & background workers
-* 🌐 REST API design (clean & scalable)
-* 🔗 Third-party API integration
-* ⚡ Performance & API optimization
+My goal is simple: **build systems that are easy to maintain and ready to scale.**
 
 ---
 
-## 🗄️ Database Layer
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-</p>
+**Backend**
 
-* Prisma ORM (production use)
-* Relational & NoSQL design
-* Efficient query handling
+`NestJS` • `Node.js` • `Express.js` • `TypeScript`
+
+**Database**
+
+`PostgreSQL` • `MongoDB` • `Prisma ORM`
+
+**Backend Systems**
+
+`REST APIs` • `JWT Authentication` • `Cron Jobs` • `Caching` • `Third-party APIs`
+
+**Tools**
+
+`Git` • `GitHub` • `Docker` • `Postman`
 
 ---
 
-## 🚀 Real-World Projects
+## 🛠 What I Build
+
+- Scalable REST APIs
+- Modular NestJS applications
+- JWT & cookie-based authentication
+- Role-based authorization
+- Background jobs & cron systems
+- Third-party API integrations
+- Database architecture with Prisma
+- Caching & API performance optimization
+- Real-time data synchronization
+
+---
+
+## 🚀 Selected Projects
 
 ### ✈️ Flight Tracking & Alert System
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
+A backend system that monitors flight information and automatically detects important status changes.
 
-**Backend-heavy system built with NestJS**
+**Built with:**
+`NestJS` • `Cron Jobs` • `External APIs` • `Database`
 
-* ⏱ Cron jobs for scheduled flight updates
-* 📡 External aviation API integration
-* 🔔 Alert system for status changes
-* ⚡ Optimized API calls to avoid rate limits
+**Highlights**
 
----
-
-### 🏀 Sports Data API System
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
-</p>
-
-**Multi-API integration platform**
-
-* Integrated Basketball & Tennis APIs
-* Managed API rate limits & caching logic
-* Real-time data synchronization
+- Scheduled flight data synchronization
+- Aviation API integration
+- Flight status monitoring
+- Automated alert processing
+- API rate-limit optimization
 
 ---
 
-## 🧠 Current Focus
+### 🏀 Sports Data Platform
 
-<p align="center">
-  <img src="https://readme-progress-bar.vercel.app/api?progress=80&color=00F7FF" />
-</p>
+Backend platform for collecting and managing sports data from multiple external providers.
+
+**Built with:**
+`NestJS` • `REST APIs` • `Caching` • `Database`
+
+**Highlights**
+
+- Basketball API integration
+- Tennis API integration
+- Multi-provider data synchronization
+- API rate-limit handling
+- Caching for frequently requested data
+
+---
+
+## 🧠 Currently Improving
 
 ```text
-✔ Advanced NestJS Architecture
-✔ System Design (Scalability)
-✔ Caching & Performance Optimization
-✔ DSA for Problem Solving
-✔ TypeScript Deep Dive
+NestJS Architecture
+System Design
+Redis & Caching
+Docker
+Database Optimization
+TypeScript
+Data Structures & Algorithms
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdrezuanislamridoy&show_icons=true&hide_border=true&theme=transparent"
+    height="160"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=mdrezuanislamridoy&hide_border=true&theme=transparent"
+ height="160"
+/>
 
----
-
-## 🧩 What Makes Me Different
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
-
-* I don’t just build APIs — I build **systems**
-* I understand **real-world backend problems** (rate limits, cron, scaling)
-* I focus on **clean, maintainable architecture**
-* I think like a **backend engineer, not just a coder**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdrezuanislamridoy/mdrezuanislamridoy/output/github-contribution-grid-snake.svg" />
@@ -141,12 +135,27 @@
 
 ---
 
-## ⭐ Support
+## 🤝 Let's Connect
 
-If you find my work useful, consider giving a ⭐ — it really motivates me!
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+  <b>Building reliable backend systems, one API at a time.</b>
 </p>
+```
