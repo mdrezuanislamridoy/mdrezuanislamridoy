@@ -1,5 +1,5 @@
 
-```
+````
 <h1 align="center">Hi, I'm Ridoy 👋</h1>
 
 <h3 align="center">
@@ -106,7 +106,7 @@ Docker
 Database Optimization
 TypeScript
 Data Structures & Algorithms
-```
+````
 
 ---
 
