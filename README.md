@@ -3,67 +3,79 @@
 <h3 align="center">Backend-Focused Full Stack Developer</h3>
 
 <p align="center">
-Node.js • NestJS • TypeScript • PostgreSQL • React.js
+  Node.js • NestJS • TypeScript • PostgreSQL • Microservices
 </p>
 
 <p align="center">
-Building scalable APIs, reliable backend systems, and production-ready applications.
+  Building scalable APIs, distributed systems, and production-ready applications.
 </p>
 
 ---
 
-<h4 align="center">🖥️ <a href="https://github.com/ridoybabu781">Work github</a></h4>
+<h4 align="center">
+  🖥️ <a href="https://github.com/ridoybabu781">Work GitHub</a>
+</h4>
 
 ## 👨‍💻 About Me
 
-I'm **Md Ridoy Babu**, a Full Stack Developer with a strong focus on backend engineering.
+I'm **Md Ridoy Babu**, a Backend-Focused Full Stack Developer specializing in **Node.js, NestJS, TypeScript, and PostgreSQL**.
 
-I work primarily with **Node.js, NestJS, TypeScript, PostgreSQL, Prisma ORM, React.js, and Next.js** to build scalable web applications and production-ready backend systems.
+I have production experience designing and developing **scalable REST APIs, modular backend services, microservices, and SaaS applications**. My backend work includes database architecture, authentication, authorization, real-time communication, event-driven systems, background processing, and performance optimization.
 
-I enjoy solving real-world engineering problems involving:
+I enjoy solving engineering problems involving:
 
-* API architecture
+* API architecture & system design
+* Microservices & event-driven architecture
+* PostgreSQL database design & optimization
 * Authentication & authorization
-* Database design
-* Background jobs
-* Caching
+* Redis & caching
+* Background jobs & asynchronous processing
+* Real-time systems
 * Third-party integrations
-* Performance optimization
-* Cloud deployment
+* Payment systems
+* Docker & CI/CD
 
-Currently working as a **Backend Developer at Softvence Agency** in Dhaka, Bangladesh.
+Currently working as a **Backend Developer**, building production-grade backend systems with NestJS, TypeScript, Prisma, and PostgreSQL.
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages**
+### Languages
 
-`JavaScript` `TypeScript`
+`JavaScript` `TypeScript` `SQL`
 
-**Backend**
+### Backend
 
 `Node.js` `NestJS` `Express.js`
 
-**Frontend**
+### Frontend
 
-`React.js` `Next.js` `Tailwind CSS` `Zustand`
+`React.js` `Next.js` `Redux` `Zustand` `Tailwind CSS`
 
-**Database**
+### Databases & ORM
 
-`PostgreSQL` `MongoDB` `Prisma ORM` `Mongoose` `Redis`
+`PostgreSQL` `MongoDB` `Redis` `Prisma` `TypeORM` `Mongoose`
 
-**API & Real-Time**
+### API & Communication
 
-`REST API` `WebSockets` `Socket.IO` `Swagger` `OpenAPI`
+`REST API` `WebSockets` `Socket.IO` `gRPC` `Swagger` `OpenAPI`
 
-**Authentication & Security**
+### Microservices & Messaging
 
-`JWT` `OAuth 2.0` `RBAC` `OTP Verification`
+`Microservices` `Apache Kafka` `RabbitMQ` `Event-Driven Architecture` `API Gateway` `Domain-Driven Design`
 
-**DevOps & Cloud**
+### Authentication & Security
+
+`JWT` `OAuth 2.0` `RBAC` `OTP` `Firebase Cloud Messaging`
+
+### DevOps & Cloud
 
 `Docker` `AWS` `Linux` `GitHub Actions` `CI/CD`
+
+### Testing
+
+`Jest` `Postman`
 
 ---
 
@@ -71,60 +83,73 @@ Currently working as a **Backend Developer at Softvence Agency** in Dhaka, Bangl
 
 * Production-grade REST APIs
 * Modular NestJS applications
-* PostgreSQL database architecture
-* Prisma ORM
-* JWT & OAuth authentication
-* Role-based access control
-* Background jobs & scheduled tasks
+* Microservices architecture
+* Database-per-service architecture
+* PostgreSQL schema design & optimization
+* Prisma & TypeORM
+* JWT / OAuth 2.0 authentication
+* Role-Based Access Control
 * Redis caching
-* WebSockets & real-time systems
-* Third-party API integrations
+* Kafka & event-driven systems
+* RabbitMQ messaging
+* WebSockets & real-time applications
+* Background processing
 * Payment gateway integrations
+* SaaS subscription systems
 * Dockerized applications
-* CI/CD workflows
-* AWS deployments
+* CI/CD pipelines
+* API Gateway architecture
+* Cloud-based applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✈️ NaijaRadar
+### 🏥 MedCare
 
-**Real-Time Flight Tracking Platform**
+**Enterprise Distributed Healthcare & Telemedicine Microservices Platform**
 
-`NestJS` `PostgreSQL` `AviationStack API` `Caching` `Background Jobs`
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Docker` `Caddy` `WebSockets` `Jest`
 
-Backend services for tracking live flight information, schedules, delays, subscriptions, and user alerts.
+A distributed healthcare platform designed using a **Database-per-Service microservices architecture**.
 
 **Highlights**
 
-* Integrated AviationStack flight data
-* Built flight status and schedule APIs
-* Implemented caching to reduce redundant external API requests
-* Designed background jobs for automated processing
-* Built SMS, push, and email notification workflows
-* Designed PostgreSQL database schemas
+* Architected **11 independent microservices**
+* Designed **9 isolated PostgreSQL databases**
+* Implemented hybrid RPC and asynchronous event-driven communication
+* Built a decoupled NestJS API Gateway
+* Implemented JWT authentication and RBAC across **7 enterprise roles**
+* Built real-time clinical workflows
+* Implemented SSE-based live token queues
+* Developed WebSocket-based teleconsultation chat
+* Containerized infrastructure using Docker
+* Implemented automated multi-database PostgreSQL initialization
 
 ---
 
-### ☁️ RR Vault
+### 🎓 Nodmac
 
-**Cloud Media Platform**
+**EdTech & Career SaaS Platform**
 
-`Node.js` `Cloudflare Object Storage` `Stripe` `OAuth` `NPM SDK`
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Stripe` `Selcom` `Socket.IO` `AWS S3`
 
-A cloud-based media platform with secure file handling and subscription management.
+A SaaS platform combining education, career services, AI-powered learning, and subscription management.
 
 **Highlights**
 
-* API-key authentication
-* Secure file upload workflows
-* Cloudflare Object Storage integration
-* Stripe subscription integration
-* OAuth & email authentication
-* Usage limits
-* Administrative dashboard
-* Custom NPM SDK for client applications
+* Built course and class management systems
+* Implemented scheduling, assessments, grading, and student groups
+* Developed AI-powered learning features
+* Built hybrid chatbot functionality
+* Developed automated MCQ generation
+* Implemented Stripe & Selcom subscription billing
+* Built webhook-based payment processing
+* Implemented trials and usage throttling
+* Developed dynamic CV builder with PDF export
+* Built job and scholarship application workflows
+* Implemented multi-role JWT authentication
+* Added session binding and audit logging
 
 ---
 
@@ -136,20 +161,30 @@ const developer = {
   role: "Backend-Focused Full Stack Developer",
 
   core: [
-    "NestJS",
     "Node.js",
+    "NestJS",
     "TypeScript",
-    "PostgreSQL"
+    "PostgreSQL",
+    "Microservices"
+  ],
+
+  architecture: [
+    "REST APIs",
+    "Microservices",
+    "Event-Driven Architecture",
+    "API Gateway",
+    "Database-per-Service"
   ],
 
   interests: [
-    "Scalable Systems",
-    "API Architecture",
     "System Design",
-    "Performance"
+    "Scalable Systems",
+    "Performance Optimization",
+    "Distributed Systems"
   ],
 
-  philosophy: "Build systems that are reliable, maintainable, and ready to scale."
+  philosophy:
+    "Build systems that are reliable, maintainable, and ready to scale."
 };
 ```
 
@@ -159,9 +194,11 @@ const developer = {
 
 * Advanced NestJS Architecture
 * System Design
+* Distributed Systems
 * PostgreSQL Optimization
 * Redis & Caching
 * Microservices
+* Apache Kafka
 * Docker & CI/CD
 * AWS
 * Data Structures & Algorithms
@@ -172,8 +209,14 @@ const developer = {
 
 **Diploma in Computer Science and Technology**
 
-Kurigram Polytechnic Institute
+**Kurigram Polytechnic Institute**
 2022 – 2026
+
+---
+
+## 🏆 Certification
+
+**MERN Stack Web Development** — Interactive Cares
 
 ---
 
@@ -183,10 +226,12 @@ Kurigram Polytechnic Institute
 
 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/rr-md-ridoy-babu/">Md. Ridoy Babu</a>
 
-📧 **Email:** [ridoy.babu.781@gmail.com](mailto:ridoy.babu.781@gmail.com)
+💻 **GitHub:** <a href="https://github.com/ridoybabu781">github.com/ridoybabu781</a>
+
+📧 **Email:** <a href="mailto:ridoy.babu.781@gmail.com">[ridoy.babu.781@gmail.com](mailto:ridoy.babu.781@gmail.com)</a>
 
 ---
 
 <p align="center">
-  <b>Build clean. Scale smart. Ship reliable systems.</b>
+  <b>Build clean. Scale smart. Ship reliable systems. 🚀</b>
 </p>
