@@ -16,15 +16,31 @@ I'm a Backend Developer from **Dhaka, Bangladesh**, focused on building scalable
 - 📫 Reach me at **ridoy.babu.781@gmail.com**
 
 ---
-
 ## 🤝 Open Source Contributions
 
 | Project | Contribution | PR | Status |
 |---|---|---|---|
-| [**nestjs/nest**](https://github.com/nestjs/nest) | Added integration & E2E tests for the HTTP `QUERY` method (RFC 10008) lifecycle on Express and Fastify | [#17798](https://github.com/nestjs/nest/pull/17798) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17798) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="18" height="18" align="center" /> [**nestjs/nest**](https://github.com/nestjs/nest) | Fixed route-level Multer options overwriting global upload `limits` across all 5 file-upload interceptors | [#17818](https://github.com/nestjs/nest/pull/17818) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17818) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="18" height="18" align="center" /> [**nestjs/nest**](https://github.com/nestjs/nest) | Added integration & E2E tests for the HTTP `QUERY` method (RFC 10008) lifecycle on Express and Fastify | [#17798](https://github.com/nestjs/nest/pull/17798) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17798) |
 
 <details>
-<summary><b>NestJS · #17798 — test(testing): add e2e tests for HTTP QUERY method lifecycle</b></summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" align="center" /> <b>NestJS · #17818 — fix(platform-express): merge global and route-level Multer limits</b></summary>
+<br>
+
+Fixed a bug where `MulterModule.register()` (global) options and per-route `FileInterceptor(...)` (local) options were merged with a flat object spread, so a route overriding one limit silently lost every other global limit.
+
+- Added a shared `mergeMulterOptions()` helper that merges `limits` key-by-key, so a local override only replaces the keys it sets
+- Handled function-valued `limits` (multer ≥ 2.4.0): if either side is a function, the local value wins, preserving prior behavior
+- Replaced the duplicated `{ ...options, ...localOptions }` spread in all 5 interceptors (`FileInterceptor`, `FilesInterceptor`, `FileFieldsInterceptor`, `AnyFilesInterceptor`, `NoFilesInterceptor`)
+- Widened the `MulterOptions.limits` type to accept the function form
+- Added unit tests for the helper plus a `.limits` assertion in each interceptor spec
+- Documented the behavior change and an opt-out (`limits: { files: undefined }`) for maintainers
+- Results: 77 platform-express tests passing, `tsc --noEmit` clean
+
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" align="center" /> <b>NestJS · #17798 — test(testing): add e2e tests for HTTP QUERY method lifecycle</b></summary>
 <br>
 
 Audited NestJS's support for the HTTP `QUERY` method (RFC 10008) and added test coverage proving that `@QueryMethod()` works through the full request lifecycle.
