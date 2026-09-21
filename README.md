@@ -20,8 +20,8 @@ I'm a Backend Developer from **Dhaka, Bangladesh**, focused on building scalable
 
 | Project | Contribution | PR | Status |
 |---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="18" height="18" align="center" /> [**nestjs/nest**](https://github.com/nestjs/nest) | Fixed route-level Multer options overwriting global upload `limits` across all 5 file-upload interceptors | [#17818](https://github.com/nestjs/nest/pull/17818) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17818) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="18" height="18" align="center" /> [**nestjs/nest**](https://github.com/nestjs/nest) | Added integration & E2E tests for the HTTP `QUERY` method (RFC 10008) lifecycle on Express and Fastify | [#17798](https://github.com/nestjs/nest/pull/17798) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17798) |
+|<a href="https://github.com/nestjs/nest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" />&nbsp;<b>nestjs/nest</b></a> | Fixed route-level Multer options overwriting global upload `limits` across all 5 file-upload interceptors | [#17818](https://github.com/nestjs/nest/pull/17818) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17818) |
+| <a href="https://github.com/nestjs/nest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" />&nbsp;<b>nestjs/nest</b></a> | Added integration & E2E tests for the HTTP `QUERY` method (RFC 10008) lifecycle on Express and Fastify | [#17798](https://github.com/nestjs/nest/pull/17798) | ![PR status](https://img.shields.io/github/pulls/detail/state/nestjs/nest/17798) |
 
 <details>
 <summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="16" height="16" align="center" /> <b>NestJS · #17818 — fix(platform-express): merge global and route-level Multer limits</b></summary>
